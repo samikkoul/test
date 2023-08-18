@@ -1,6 +1,0 @@
-{{#user}
-Name: Samik
-Skills: HTML,CSS,SQL,Java
-Email: samkoul333@gmail.com
-{{/user}}
-
